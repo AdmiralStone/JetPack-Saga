@@ -10,10 +10,9 @@ This project is a simple Unity game inspired by Jetpack Joyride. It utilizes bas
 - High score tracking
 
 ## Gameplay Video
-<video width=auto height="320" controls>
-  <source src="Gameplay.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/AdmiralStone/JetPack-Saga/assets/40765252/5353354e-533b-4c31-9566-dd5161627578
+
+
 
 ## Installation
 1. Clone the repository to your local machine.
