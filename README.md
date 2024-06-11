@@ -1,7 +1,7 @@
 # Jetpack Saga
 
 ## Description
-This project is a simple Unity game inspired by Jetpack Joyride. It utilizes basic shapes to represent the player, obstacles, and coins. Players can control the character using the spacebar key to navigate through the game environment, collecting coins and avoiding obstacles. The game tracks the current score and maintains a high score while the game is active.
+This is a game inspired by Jetpack Joyride built in Unity. It utilizes simple shapes to represent the player, obstacles, and coins. Players can control the character using the spacebar key to navigate through the game environment, collecting coins and avoiding obstacles. The game tracks the current score and maintains a high score while the game is active.
 
 ## Gameplay Features
 - Player control with the spacebar key
